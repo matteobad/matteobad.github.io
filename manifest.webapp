@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Matteo Badini",
+  "launch_path": "/index.html",
+  "description": "Sito personale di Matteo Badini",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Matteo Badini",
+    "url": "https://matteobad.github.io/"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "it",
+  "permissions": {
+  },
+  "locales": {
+    "it": {
+      "name": "Matteo Badini",
+      "description": "Sito personale di Matteo Badini"
+    }
+  }
+}

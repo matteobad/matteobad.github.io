@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Matteo Badini -- Developer -- @matteobad95
+
+# THANKS
+
+  Giulia Tonioni -- Designer
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, JS

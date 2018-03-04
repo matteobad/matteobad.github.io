@@ -1,0 +1,37 @@
+{
+  "name": "Matteo Badini",
+  "short_name": "bad",
+  "description": "Sito personale di Matteo Badini",
+  "lang": "it",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#E65959",
+  "icons": [
+    {
+      "src": "images/touch/apple-touch-icon.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-180x180.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#F5F5F5"
+}
